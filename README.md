@@ -8,4 +8,4 @@
  <p>- HTML</p>
  <p>- CSS</p>
 
-<img src="https://github.com/bieldev00/We-care-about-your-pet/blob/main/img/desktop%20we%20care.png?raw=true" />
+<img src="https://github.com/bieldev00/We-care-about-your-pet/blob/main/img/Desktop%20we%20care.png?raw=true" />
